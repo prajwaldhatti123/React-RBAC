@@ -1,5 +1,5 @@
 {
-  "name": "@rbac/react-rbac",
+  "name": "react-basic-rbac",
   "version": "1.0.0",
   "description": "A fully modular, dynamic RBAC (Role-Based Access Control) package for React applications. This package lets you supply your own roles array along with a logged‑in user's role and then directly use a permission checker function—without extra boilerplate. It’s built with TypeScript to ensure type safety and ease of integration.",
   "main": "index.js",
